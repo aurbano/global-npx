@@ -1,0 +1,23 @@
+{
+  "name": "global-npx",
+  "version": "0.0.0",
+  "description": "Run npx commands from within a Nodejs application",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aurbano/global-npx.git"
+  },
+  "keywords": [
+    "npx",
+    "node"
+  ],
+  "author": "Alejandro U. Alvarez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aurbano/global-npx/issues"
+  },
+  "homepage": "https://github.com/aurbano/global-npx#readme"
+}
