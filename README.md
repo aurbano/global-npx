@@ -1,4 +1,7 @@
 # global-npx
+
+[![NPM version](https://badge.fury.io/js/global-npx.svg)](https://www.npmjs.com/package/global-npx)
+
 Run npx commands from within a Nodejs application
 
 ## Usage
