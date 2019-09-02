@@ -7,7 +7,7 @@ Run npx commands from within a Nodejs application
 ## Usage
 
 ```js
-import npx from './lib/npx';
+import npx from 'global-npx';
 
 npx('create-react-app');
 ```
