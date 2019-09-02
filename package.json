@@ -1,6 +1,6 @@
 {
   "name": "global-npx",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Run npx commands from within a Nodejs application",
   "main": "src/index.js",
   "scripts": {
